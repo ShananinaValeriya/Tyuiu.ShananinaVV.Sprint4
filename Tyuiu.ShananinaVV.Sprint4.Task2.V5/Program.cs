@@ -45,7 +45,7 @@ namespace Tyuiu.ShananinaVV.Sprint4.Task2.V5
             
             Console.WriteLine("Массив: ");
 
-            for (int i = 0; i < len - 1; i++)
+            for (int i = 0; i < len; i++)
             {
                 Console.Write(numsArray[i] + "\t");
             }
