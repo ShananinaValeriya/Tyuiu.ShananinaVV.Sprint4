@@ -37,7 +37,7 @@ namespace Tyuiu.ShananinaVV.Sprint4.Task2.V5
 
             int[] numsArray = new int[len];
 
-            for (int i = 0; i <= len -1 ; i++)
+            for (int i = 0; i <= len - 1; i++)
             {
 
                 numsArray[i] = rnd.Next(3, 10);
