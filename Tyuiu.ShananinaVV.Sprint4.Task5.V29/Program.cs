@@ -18,7 +18,7 @@ namespace Tyuiu.ShananinaVV.Sprint4.Task5.V29
             Console.Title = "Спринт #4 | Выполнила: Шананина В. В. | ИСТНб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
-            Console.WriteLine("* Тема: Двумерные массивы (ввод с клавиатуры)                             *");
+            Console.WriteLine("* Тема: Двумерные массивы (генератор случайных чисел)                     *");
             Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #29                                                             *");
             Console.WriteLine("* Выполнила: Шананина Валерия Викторовна | ИСТНб-23-1                     *");
