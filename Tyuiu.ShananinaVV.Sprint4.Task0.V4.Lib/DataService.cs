@@ -21,7 +21,6 @@ namespace Tyuiu.ShananinaVV.Sprint4.Task0.V4.Lib
                 }
             }
             return star;
-
         }
     }
 }
